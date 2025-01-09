@@ -1,1 +1,1 @@
-![project Logo](libft/wllahi.gif)
+![project Logo](wllahi.gif)
